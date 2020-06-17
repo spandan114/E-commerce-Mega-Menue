@@ -5,9 +5,9 @@
 /* ------------------
 :: 2.0 Import All CSS
 ------------------ */
-@import url(css/bootstrap.min.css);
-@import url(css/default/classy-nav.min.css);
-@import url(css/owl.carousel.min.css);
+@import url(bootstrap.min.css);
+@import url(default/classy-nav.min.css);
+@import url(owl.carousel.min.css);
 
 /* Reboot CSS */
 * {
