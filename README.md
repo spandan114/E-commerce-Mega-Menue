@@ -1,6 +1,6 @@
 # E-commerce-Mega-Menu 
 
-<h5> Demo </h5> :- https://spandan114.github.io/E-commerce-Mega-Menue/
+<h4> Demo </h4> :- https://spandan114.github.io/E-commerce-Mega-Menue/
 
 
 <h3>CONTACT ME </h3>
@@ -17,7 +17,7 @@
     <p><b>GitHub:</b>https://github.com/spandan114/</p>
 </div
   
-  <h4>Images</h4>
+  <h3>Images </h>
 
 <img src="https://raw.githubusercontent.com/spandan114/E-commerce-Mega-Menue/master/img/git/Screenshot%20(94).png" alt="ecommerce mega menu image" >
 
