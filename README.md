@@ -17,7 +17,7 @@
     <p><b>GitHub:</b>https://github.com/spandan114/</p>
 </div
   
-  <h3>Images </h>
+  <h3> Images </h3>
 
 <img src="https://raw.githubusercontent.com/spandan114/E-commerce-Mega-Menue/master/img/git/Screenshot%20(94).png" alt="ecommerce mega menu image" >
 
